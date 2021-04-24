@@ -42,6 +42,23 @@ Barcode List:
 
 ![image](https://user-images.githubusercontent.com/82522478/115962585-c9113880-a539-11eb-9387-ffa8174b45c3.png)
 
+7. Customer will scan the barcode on product, since we do not have any scanner
+We will type barcode here
+Product’s name, price and total price will be displayed
+
+![image](https://user-images.githubusercontent.com/82522478/115962632-f3fb8c80-a539-11eb-9b41-2358a3afe4ad.png)
+
+![image](https://user-images.githubusercontent.com/82522478/115962635-f958d700-a539-11eb-8d07-b88a7e63b7c2.png)
+
+8. If user scans incorrectly or incorrect barcode is typed, such message will come
+
+![image](https://user-images.githubusercontent.com/82522478/115962669-22796780-a53a-11eb-80bc-94c7a4fc8189.png)
+
+9. Now added products will displayed and total price will be paid by our customer
+
+![image](https://user-images.githubusercontent.com/82522478/115962687-3624ce00-a53a-11eb-8606-8a6bcbc6ae62.png)
+
+
 
 
 
