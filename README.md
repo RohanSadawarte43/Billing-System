@@ -14,6 +14,35 @@ Customer Table :
 
 ![image](https://user-images.githubusercontent.com/82522478/115962502-599b4900-a539-11eb-9f87-eca3e4926498.png)
 
+3. Customer will click on the Sign Up button
+
+![image](https://user-images.githubusercontent.com/82522478/115962537-7b94cb80-a539-11eb-815f-e18c55d8c482.png)
+
+4. Customer will enter his new login Id and Password,  this will simply add his data in our database
+
+![image](https://user-images.githubusercontent.com/82522478/115962544-864f6080-a539-11eb-860d-9ef6a70fb304.png)
+
+After Sign Up
+
+![image](https://user-images.githubusercontent.com/82522478/115962549-8fd8c880-a539-11eb-833c-f41d92114297.png)
+
+5. After OK, again login page will come
+
+![image](https://user-images.githubusercontent.com/82522478/115962561-9d8e4e00-a539-11eb-952d-d8774dab667c.png)
+
+Customer now will login again
+
+![image](https://user-images.githubusercontent.com/82522478/115962570-ada62d80-a539-11eb-8ac4-50bdd4ddb3dc.png)
+
+6. He will successfully  logged in and his cart will open
+
+![image](https://user-images.githubusercontent.com/82522478/115962577-bd257680-a539-11eb-8d9a-a3dedb26dddb.png)
+
+Barcode List:
+
+![image](https://user-images.githubusercontent.com/82522478/115962585-c9113880-a539-11eb-9387-ffa8174b45c3.png)
+
+
 
 
 
