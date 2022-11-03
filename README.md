@@ -1,6 +1,6 @@
 # Billing-System
 
-This idea was to put barcode scanner on the cart and whenever the customer wants to buy a product before puting it into the cart, he can just scan the barcode of the product on the screen it will show the price of the product and add it in the list. Doing the same process for every product will automatically create a list of product with the prices. So by this the customers need not stand in long queue and just have to pay at the end instead of following the normal procedure.
+This idea was to put a barcode scanner on the cart and whenever the customer wants to buy a product before putting it into the cart, he can just scan the barcode of the product on the screen it will show the price of the product and add it to the list. Doing the same process for every product will automatically create a list of products with the prices. So by this, the customers need not stand in a long queue and just have to pay at the end instead of following the normal procedure.
 
 1. First login window will open
 
